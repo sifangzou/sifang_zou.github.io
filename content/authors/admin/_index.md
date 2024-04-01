@@ -21,7 +21,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 123
+  - name: 中国电信股份有限公司北京研究院
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
