@@ -24,13 +24,12 @@ organizations:
   - name: 中国电信股份有限公司北京研究院
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 目前专攻标准领域，欢迎合作推进
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 生成模型
+  - 隐式三维重建
 
 # Education to show in About widget
 education:
