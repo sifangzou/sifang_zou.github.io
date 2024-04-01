@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 邹航
+title: 邹航（Hang ZOU）
 
-# Name pronunciation (optional)
-name_pronunciation: 
+# # Name pronunciation (optional)
+# name_pronunciation: 
 
-# Full name (for SEO)
-first_name: Hang
-last_name: ZOU
+# # Full name (for SEO)
+# first_name: Hang
+# last_name: ZOU
 
 # Status emoji
 status:
@@ -23,19 +23,18 @@ superuser: true
 organizations:
   - name: 中国电信股份有限公司北京研究院
 
-# Short bio (displayed in user profile at end of posts)
-bio: 目前专攻标准领域，欢迎合作推进
+# # Short bio (displayed in user profile at end of posts)
+# bio: 目前专攻标准领域，欢迎合作推进
 
 # Interests to show in About widget
-interests:
-  - 生成模型
-  - 隐式三维重建
+研究方向:
+  生成模型
+  隐式三维重建
 
 # Education to show in About widget
-education:
-  courses:
-    - course: 2018 - 2020，澳门科技大学，理学硕士
-    - course: 2014 - 2018，中央民族大学，工学学士
+教育背景:
+  2018 - 2020，澳门科技大学，理学硕士
+  2014 - 2018，中央民族大学，工学学士
 
 
 # Social/Academic Networking
