@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 邹航
+title: Hang ZOU (邹航)
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -97,16 +97,18 @@ social:
   #   display:
   #     header: true
  
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sifangzou
+  
+
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     # icon_pack: fas
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=Sq_V65cAAAAJ
   
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sifangzou
-  
+
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
