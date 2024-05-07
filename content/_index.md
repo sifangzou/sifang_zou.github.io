@@ -219,12 +219,12 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - papers
+          - publication
     #     # exclude_featured: true
     #     exclude_featured: false
-    # design:
-    #   columns: '2'
-    #   view: citation
+    design:
+      columns: '2'
+      view: citation
 
   - block: collection
     id: talks
