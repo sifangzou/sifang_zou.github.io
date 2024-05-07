@@ -218,8 +218,8 @@ sections:
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
     #   filters:
-    #     folders:
-    #       - papers
+        folders:
+          - papers
     #     # exclude_featured: true
     #     exclude_featured: false
     # design:
