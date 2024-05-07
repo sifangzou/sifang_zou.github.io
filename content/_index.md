@@ -213,14 +213,15 @@ sections:
   - block: collection
     content:
       title: Papers
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - papers
+        # exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
