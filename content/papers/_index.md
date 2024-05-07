@@ -14,6 +14,3 @@ banner:
   caption: ''
   image: ''
 ---
-Currently engaged in standardization within Study Group 16 ITU-T.
-{style="text-align: justify;"}
-
