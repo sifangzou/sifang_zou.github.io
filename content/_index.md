@@ -279,7 +279,7 @@ sections:
     #     # exclude_featured: true
     #     exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: list
 
   # - block: tag_cloud
