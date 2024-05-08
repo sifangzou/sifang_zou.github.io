@@ -3,7 +3,7 @@ title: 'CDNeRF: A multi-modal feature guided neural radiance fields'
 authors:
 - Qi Zhang
 - Qiaoqiao Liu
-- Hang Zou
+- **Hang Zou**
 date: '2022-01-01'
 publishDate: '2024-05-07T09:59:02.173645Z'
 publication_types:
