@@ -21,7 +21,7 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: China Telecom Research Institute (CTRI)
+  - name: China Telecom Research Institute (CTRI) 2021 - present
     url: 
 
 # Short bio (displayed in user profile at end of posts)

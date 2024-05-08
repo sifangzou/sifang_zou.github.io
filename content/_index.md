@@ -209,6 +209,28 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+
+  - block: collection
+    # id: talks
+    content:
+      title: Standards
+      text: |-
+        - ITU-T SG16, H.ILE-3DINR "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, Main Editor, Under Study;
+        - ITU-T SG16, F.IGreqs "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor, Under Study;
+        - ITU-T SG16, F.747.15(ex F.EVSreqs) "Requirements of event-based vision systems", 2022, Main Editor, Under AAP;
+        - ITU-T SG16, F.748.29(ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor, Under AAP;
+        - ITU-T SG16, F.747.14(ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor, Under AAP;
+        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024，Main Editor，Under Study；
+        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023，Main Editor，Under Study；
+      
+      # filters:
+      #   folders:
+      #     - event
+    design:
+      columns: '2'
+      view: compact
+
+
 ###########
   - block: collection
     content:
@@ -226,19 +248,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      text: |-
-        - bullet 1 CCSA，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023，项目负责人，第一起草人，在研；
-      
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+
 
   # - block: tag_cloud
   #   content:
