@@ -125,5 +125,6 @@ highlight_name: true
 ---
 
 
-Currently engaged in standardization within Study Group 16 ITU-T.
+Currently focus on engaging in standardization within Study Group 16 ITU-T.
+Last upadated - May 2024
 {style="text-align: justify;"}
