@@ -43,7 +43,7 @@ sections:
       # title: Biography
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Hang Zou
   
   # - block: skills
   #   content:
