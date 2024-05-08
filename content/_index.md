@@ -230,6 +230,9 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      text: "
+      CCSA，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023，项目负责人，第一起草人，在研；
+      "
       filters:
         folders:
           - event
