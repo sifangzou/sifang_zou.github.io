@@ -30,6 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Generative Model
+  - {{ "Hello! :wave:" | .RenderString }}
 
 # Education to show in About widget
 education:
