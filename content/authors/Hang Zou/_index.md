@@ -30,6 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Generative Model
+  - :fishing_pole_and_fish:
 
 # Education to show in About widget
 education:
