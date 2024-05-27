@@ -28,11 +28,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-research area:
-  - Generative Model
+
 
 interests:
-  - "Fishing :fishing_pole_and_fish:"
+  - research area - Generative Model
+  #- "fishing :fishing_pole_and_fish:"
 
 # Education to show in About widget
 education:
@@ -128,9 +128,8 @@ highlight_name: true
 ---
 
 
-Hello~:hugs:Here is Hang.
+Hello~:hugs:Here is Hang. Last upadated - May 2024
 
 I am currently focusing on engaging in standardization within Study Group 16 ITU-T.
 
-Last upadated - May 2024
 {style="text-align: justify;"}
