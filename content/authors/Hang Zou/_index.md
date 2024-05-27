@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Generative Model
-  - "Hello! :wave:"
+  - "Hello! :fishing_pole_and_fish:"
 
 # Education to show in About widget
 education:
@@ -126,7 +126,7 @@ highlight_name: true
 ---
 
 
-Currently focus on engaging in standardization within Study Group 16 ITU-T.
-
+Hello~:hugs:Here is Hang.
+I am currently focusing on engaging in standardization within Study Group 16 ITU-T.
 Last upadated - May 2024
 {style="text-align: justify;"}
