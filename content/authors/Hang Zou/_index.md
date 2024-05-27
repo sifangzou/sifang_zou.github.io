@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Generative Model
-  - Hello! :wave:；
+  - "Hello! :wave:"
 
 # Education to show in About widget
 education:
