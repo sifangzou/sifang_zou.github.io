@@ -31,7 +31,7 @@ organizations:
 
 
 interests:
-  - Research Area - Generative Model
+  - Generative Model
   #- "fishing :fishing_pole_and_fish:"
 
 # Education to show in About widget
@@ -128,7 +128,7 @@ highlight_name: true
 ---
 
 
-Hello~:hugs:Last upadated - May 2024
+:hugs:Last upadated - May 2024
 
 I am currently focusing on engaging in standardization within Study Group 16 ITU-T.
 
