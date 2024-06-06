@@ -128,7 +128,7 @@ highlight_name: true
 ---
 
 
-:hugs:Last upadated - May 2024
+:hugs:Last upadated - June 2024
 
 I am currently focusing on engaging in standardization within Study Group 16 ITU-T.
 
