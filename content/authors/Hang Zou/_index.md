@@ -130,6 +130,6 @@ highlight_name: true
 
 :hugs:Last upadated - June 2024
 
-I am currently focusing on engaging in standardization within Study Group 16 ITU-T.
+I am currently focusing on standardization within Study Group 16 of the ITU-T.
 
 {style="text-align: justify;"}
