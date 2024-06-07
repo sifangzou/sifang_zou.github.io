@@ -228,7 +228,7 @@ sections:
         folders:
           - standard
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 
 
@@ -246,7 +246,7 @@ sections:
     #     # exclude_featured: true
     #     exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
 ###########
