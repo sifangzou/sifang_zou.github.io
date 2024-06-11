@@ -220,9 +220,9 @@ sections:
         - ITU-T SG16, F.747.15(ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**, Under AAP;
         - ITU-T SG16, F.748.29(ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, **Co-Editor**, Under AAP;
         - ITU-T SG16, F.747.14(ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, **Co-Editor**, Under AAP;
-        - CCSA TC1,《基于视频云网融合的视联网 人工智能中台》，2024，**项目负责人**，在研；
-        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024，**项目负责人**，在研；
-        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023，**项目负责人**，在研；
+        - CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**项目负责人**，在研；
+        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**项目负责人**，在研；
+        - CCSA TC1,《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**项目负责人**，在研；
       
       filters:
         folders:
