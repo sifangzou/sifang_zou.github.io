@@ -217,7 +217,7 @@ sections:
       text: |-
         - ITU-T SG16, H.ILE-3DINR "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**, Under Study;
         - ITU-T SG16, F.IGreqs "Requirements and framework of artificial intelligence-based image generation systems", 2024, **Co-Editor**, Under Study;
-        - ITU-T SG16, F.747.15(ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**, Under AAP;
+        - ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636)(ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**, Approved;
         - ITU-T SG16, F.748.29(ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, **Co-Editor**, Under AAP;
         - ITU-T SG16, F.747.14(ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, **Co-Editor**, Under AAP;
         - CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**项目负责人**，在研；
