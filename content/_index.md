@@ -73,15 +73,19 @@ sections:
       title: Papers
       text: |-
         [1] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-fine iris recognition based on multi-variant ordinal measures feature complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
+
         [2] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
+
         [3] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-modal and multi-view optimized cross-scene neural radiance fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
+
         [4] H. Zou, H. Zhang, X. Li, J. Liu, and Z. He, “Generation textured contact lenses iris images based on 4DCycle-GAN,” presented at the 2018 24th International Conference on Pattern Recognition (ICPR), IEEE, 2018, pp. 3561–3566.
+        
         [5] H. Zou et al., “Multi-angle consistent generative NeRF with additive angular margin momentum contrastive learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
 
 
-    filters:
-      folders:
-        - publication
+    # filters:
+    #   folders:
+    #     - publication
     #     # exclude_featured: true
     #     exclude_featured: false
     design:
@@ -122,62 +126,4 @@ sections:
     design:
       columns: '1'
       view: list
-
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
-
-  # - block: contact
-  #   id: contact
-  #   content:
-  #     title: Contact
-  #     subtitle:
-  #     text: |-
-  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-  #     # Contact (add or remove contact options as necessary)
-  #     email: test@example.org
-  #     phone: 888 888 88 88
-  #     appointment_url: 'https://calendly.com'
-  #     address:
-  #       street: 450 Serra Mall
-  #       city: Stanford
-  #       region: CA
-  #       postcode: '94305'
-  #       country: United States
-  #       country_code: US
-  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  #     office_hours:
-  #       - 'Monday 10:00 to 13:00'
-  #       - 'Wednesday 09:00 to 10:00'
-  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
-  #     coordinates:
-  #       latitude: '37.4275'
-  #       longitude: '-122.1697'  
-  #     contact_links:
-  #       - icon: twitter
-  #         icon_pack: fab
-  #         name: DM Me
-  #         link: 'https://twitter.com/Twitter'
-  #       - icon: skype
-  #         icon_pack: fab
-  #         name: Skype Me
-  #         link: 'skype:echo123?call'
-  #       - icon: video
-  #         icon_pack: fas
-  #         name: Zoom Me
-  #         link: 'https://zoom.com'
-  #     # Automatically link email and phone or display as text?
-  #     autolink: true
-  #     # Email form provider
-  #     form:
-  #       provider: netlify
-  #       formspree:
-  #         id:
-  #       netlify:
-  #         # Enable CAPTCHA challenge to reduce spam?
-  #         captcha: false
-  #   design:
-  #     columns: '2'
 ---
