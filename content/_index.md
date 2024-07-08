@@ -72,15 +72,16 @@ sections:
     content:
       title: Papers
       text: |-
-        [1] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-fine iris recognition based on multi-variant ordinal measures feature complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
+        [1] H. Zou et al., “Multi-angle consistent generative NeRF with additive angular margin momentum contrastive learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
 
-        [2] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
+        [2] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-modal and multi-view optimized cross-scene neural radiance fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
 
-        [3] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-modal and multi-view optimized cross-scene neural radiance fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
+        [3] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
 
         [4] H. Zou, H. Zhang, X. Li, J. Liu, and Z. He, “Generation textured contact lenses iris images based on 4DCycle-GAN,” presented at the 2018 24th International Conference on Pattern Recognition (ICPR), IEEE, 2018, pp. 3561–3566.
         
-        [5] H. Zou et al., “Multi-angle consistent generative NeRF with additive angular margin momentum contrastive learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
+        [5] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-fine iris recognition based on multi-variant ordinal measures feature complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
+
 
 
     # filters:
