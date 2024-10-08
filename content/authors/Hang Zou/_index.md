@@ -128,8 +128,8 @@ highlight_name: true
 ---
 
 
-:hugs:Last upadated - June 2024
+:hugs:Last upadated - October 2024
 
-I am currently focusing on standardization within Study Group 16 of the ITU-T.
+I am currently focusing on standardization within Study Group 16 of the ITU-T, serving as the representative for Q12/16 to collaborate with JPEG on the development of event-based vision standards.
 
 {style="text-align: justify;"}
