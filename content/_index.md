@@ -44,20 +44,185 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Hang Zou
+  
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
+
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: CEO
+  #         company: GenCoin
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: California
+  #         date_start: '2021-01-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Responsibilities include:
+
+  #             * Analysing
+  #             * Modelling
+  #             * Deploying
+  #       - title: Professor of Semiconductor Physics
+  #         company: University X
+  #         company_url: ''
+  #         company_logo: org-x
+  #         location: California
+  #         date_start: '2016-01-01'
+  #         date_end: '2020-12-31'
+  #         description: Taught electronic engineering and researched semiconductor physics.
+  #   design:
+  #     columns: '2'
+
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://www.coursera.org
+  #         date_end: ''
+  #         date_start: '2021-01-25'
+  #         description: ''
+  #         icon: coursera
+  #         organization: Coursera
+  #         organization_url: https://www.coursera.org
+  #         title: Neural Networks and Deep Learning
+  #         url: ''
+  #       - certificate_url: https://www.edx.org
+  #         date_end: ''
+  #         date_start: '2021-01-01'
+  #         description: Formulated informed blockchain models, hypotheses, and use cases.
+  #         icon: edx
+  #         organization: edX
+  #         organization_url: https://www.edx.org
+  #         title: Blockchain Fundamentals
+  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #       - certificate_url: https://www.datacamp.com
+  #         date_end: '2020-12-21'
+  #         date_start: '2020-07-01'
+  #         description: ''
+  #         icon: datacamp
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: 'Object-Oriented Programming in R'
+  #         url: ''
+  #   design:
+  #     columns: '2'
+
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
+
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: Deep Learning
+  #         tag: Deep Learning
+  #       - name: Other
+  #         tag: Demo
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
+
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
 
   - block: collection
     # id: talks
     content:
       title: Standards
       text: |-
-        - ITU-T SG16, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**, Under Study;
-        - ITU-T SG16, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, **Co-Editor**, Under Study;
+        - [Under study] ITU-T SG16, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
+        - [Under study] ITU-T SG16, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
         - ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636)(ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**, Approved;
-        - ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606)(ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, **Co-Editor**, Approved;
-        - ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755)(ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, **Co-Editor**, Approved;
-        - CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**项目负责人**，在研；
-        - CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**项目负责人**，在研；
-        - CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**项目负责人**，在研；
+        - ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606)(ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor, Approved;
+        - ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755)(ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor, Approved;
+        - [在研] CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
+        - [在研] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
+        - [在研] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
       
       filters:
         folders:
@@ -67,31 +232,7 @@ sections:
       view: compact
 
 
-###########
-  - block: collection
-    content:
-      title: Papers
-      text: |-
-        [1] H. Zou et al., “Multi-angle consistent generative NeRF with additive angular margin momentum contrastive learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
 
-        [2] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-modal and multi-view optimized cross-scene neural radiance fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
-
-        [3] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
-
-        [4] H. Zou, H. Zhang, X. Li, J. Liu, and Z. He, “Generation textured contact lenses iris images based on 4DCycle-GAN,” presented at the 2018 24th International Conference on Pattern Recognition (ICPR), IEEE, 2018, pp. 3561–3566.
-        
-        [5] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-fine iris recognition based on multi-variant ordinal measures feature complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
-
-
-
-    # filters:
-    #   folders:
-    #     - publication
-    #     # exclude_featured: true
-    #     exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
 
 ###########
   - block: collection
@@ -102,22 +243,22 @@ sections:
         - 图像生成器的训练方法、图像重建方法、装置和存储介质，2023，**第一发明人**，CN117709428A
         - 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590A
         - 图像分类方法、装置、电子设备和计算机可读存储介质，2023，**第一发明人**，CN116977742A
-        - 图像处理方法、装置、计算机可读存储介质及电子设备，2023，**第四发明人**，CN116630514A
+        - 图像处理方法、装置、计算机可读存储介质及电子设备，2023，第四发明人，CN116630514A
         - 人体图像三维重建方法、装置、设备及存储介质，2023，**第一发明人**，CN116563467A
-        - 三维模型生成方法及装置、存储介质及电子设备，2023，**第三发明人**，CN116597087A
-        - 图像处理方法及装置、存储介质及电子设备，2023，**第四发明人**，CN116597173A
-        - 模型的训练方法、训练装置、电子设备和可读存储介质（已授权），2022，**第一发明人**，CN115439610B
-        - 异常数据识别模型的训练方法及相关设备（已授权），2022，**第一发明人**，CN115238805B
-        - 图像生成方法及装置、存储介质和电子设备，2022，**第三发明人**，CN115272576A
-        - 图像生成方法及装置、存储介质和电子设备（已授权），2022，**第三发明人**，CN115100360B
-        - 图像生成方法及装置、存储介质和电子设备（已授权），2022，**第三发明人**，CN115272575B
-        - 图像重建方法及装置、计算机存储介质、电子设备（已授权），2022，**第一发明人**，CN115205117B
+        - 三维模型生成方法及装置、存储介质及电子设备，2023，第三发明人，CN116597087A
+        - 图像处理方法及装置、存储介质及电子设备，2023，第四发明人，CN116597173A
+        - [已授权] 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
+        - [已授权] 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B
+        - 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272576A
+        - [已授权] 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
+        - [已授权] 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272575B
+        - [已授权] 图像重建方法及装置、计算机存储介质、电子设备，2022，**第一发明人**，CN115205117B
         - 基于二维图像的三维重建方法、系统、设备及存储介质，2022，**第一发明人**，CN115018994A
-        - 图像生成方法、装置、电子设备及计算机可读存储介质（已授权），2022，**第三发明人**，CN115063536B
-        - 三维物体的图像渲染方法、装置及电子设备，2022，**第三发明人**，CN114863007A
-        - 图像处理方法、装置、存储介质及电子设备，2021，**第二发明人**，CN114332334A
-        - 通用三维模型重建方法及装置、存储介质及电子设备（已授权），2021，**第三发明人**，CN114299252B
-        - 人脸图像生成方法及装置、人脸识别方法、设备、介质（已授权），2021，**第一发明人**，CN114255502B
+        - [已授权] 图像生成方法、装置、电子设备及计算机可读存储介质，2022，第三发明人，CN115063536B
+        - 三维物体的图像渲染方法、装置及电子设备，2022，第三发明人，CN114863007A
+        - 图像处理方法、装置、存储介质及电子设备，2021，第二发明人，CN114332334A
+        - [已授权] 通用三维模型重建方法及装置、存储介质及电子设备，2021，第三发明人，CN114299252B
+        - [已授权] 人脸图像生成方法及装置、人脸识别方法、设备、介质，2021，**第一发明人**，CN114255502B
       
       filters:
         folders:
@@ -127,4 +268,80 @@ sections:
     design:
       columns: '1'
       view: list
+
+###########
+  - block: collection
+    content:
+      title: Papers
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+    #     # exclude_featured: true
+    #     exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
+
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #     # Contact (add or remove contact options as necessary)
+  #     email: test@example.org
+  #     phone: 888 888 88 88
+  #     appointment_url: 'https://calendly.com'
+  #     address:
+  #       street: 450 Serra Mall
+  #       city: Stanford
+  #       region: CA
+  #       postcode: '94305'
+  #       country: United States
+  #       country_code: US
+  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #     office_hours:
+  #       - 'Monday 10:00 to 13:00'
+  #       - 'Wednesday 09:00 to 10:00'
+  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates:
+  #       latitude: '37.4275'
+  #       longitude: '-122.1697'  
+  #     contact_links:
+  #       - icon: twitter
+  #         icon_pack: fab
+  #         name: DM Me
+  #         link: 'https://twitter.com/Twitter'
+  #       - icon: skype
+  #         icon_pack: fab
+  #         name: Skype Me
+  #         link: 'skype:echo123?call'
+  #       - icon: video
+  #         icon_pack: fas
+  #         name: Zoom Me
+  #         link: 'https://zoom.com'
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id:
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: '2'
 ---
