@@ -109,15 +109,15 @@ sections:
     content:
       title: Papers
       text: |-
-        [1] H. Zou et al., “Multi-angle consistent generative NeRF with additive angular margin momentum contrastive learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
-
-        [2] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-modal and multi-view optimized cross-scene neural radiance fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
-
-        [3] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
-
-        [4] H. Zou, H. Zhang, X. Li, J. Liu, and Z. He, “Generation textured contact lenses iris images based on 4DCycle-GAN,” presented at the 2018 24th International Conference on Pattern Recognition (ICPR), IEEE, 2018, pp. 3561–3566.
-        
-        [5] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-fine iris recognition based on multi-variant ordinal measures feature complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
+        [1] H. Zou et al., “A Unified Framework for Iris Anti-Spoofing: Introducing IrisGeneral Dataset and Masked-MoE Method,” arXiv preprint arXiv:2408.09752, 2024.
+        [2] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
+        [3] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-Fine Iris Recognition Based on Multi-variant Ordinal Measures Feature Complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
+        [4] X. Hu et al., “Fine-Grained Prompt Learning for Face Anti-Spoofing,” presented at the ACM Multimedia 2024, 
+        [5] H. Zou, H. Zhang, X. Li, J. Liu, and Z. He, “Generation textured contact lenses iris images based on 4DCycle-GAN,” presented at the 2018 24th International Conference on Pattern Recognition (ICPR), IEEE, 2018, pp. 3561–3566.
+        [6] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” arXiv preprint arXiv:2408.12793, 2024.
+        [7] Q. Zhang, B. H. Wang, M. C. Yang, and H. Zou, “MMNeRF: Multi-Modal and Multi-View Optimized Cross-Scene Neural Radiance Fields,” IEEE Access, vol. 11, pp. 27401–27413, 2023.
+        [8] H. Zou et al., “Multi-angle Consistent Generative NeRF with Additive Angular Margin Momentum Contrastive Learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 930–939.
+        [9] J. Guo et al., “Style-conditional Prompt Token Learning for Generalizable Face Anti-spoofing,” presented at the ACM Multimedia 2024, 
 
 
 
