@@ -133,7 +133,7 @@ highlight_name: true
 I am currently a Standard Engineer in China Telecom Research Institute. 
 
 ---
-**Standards**
+<font size=4>**Standards**</font>
 - Proposed to initial a new work item about the architecture of Event-based Vision Systems...
 - **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
