@@ -132,26 +132,45 @@ highlight_name: true
 
 I am currently a Standard Engineer in China Telecom Research Institute. 
 
+---
+**Standards**
+- Proposed to initial a new work item about the architecture of Event-based Vision Systems...
+- **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
+- **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
+- [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
+- [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
+- [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
+- 计划隐式三维重建新行标立项...
+- **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
+- **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
+- **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
 
-- Proposed to initial a new work item about the architecture of Event-based Vision Systems...
-- **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
-- **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
-- [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
-- [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
-- [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
-- 计划隐式三维重建新行标立项...
-- **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
-- **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
-- **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
-- Proposed to initial a new work item about the architecture of Event-based Vision Systems...
-- **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
-- **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
-- [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
-- [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
-- [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
-- 计划隐式三维重建新行标立项...
-- **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
-- **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
-- **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
+---
+**Patents**
+- 基于联合模型的图像鉴伪方法、电子设备和存储介质，2024，**第一发明人**，2024119998511
+- 视频压缩方法、装置、计算机可读介质及电子设备，2024，**第一发明人**，202411977968X
+- 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，2024116885649
+- 三维图像的合成重建方法及相关设备，2023，**第一发明人**，CN117830374A
+- 图像生成器的训练方法、图像重建方法、装置和存储介质，2023，**第一发明人**，CN117709428A
+- **[已授权]** 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
+- 图像分类方法、装置、电子设备和计算机可读存储介质，2023，**第一发明人**，CN116977742A
+- 图像处理方法、装置、计算机可读存储介质及电子设备，2023，第四发明人，CN116630514A
+- 人体图像三维重建方法、装置、设备及存储介质，2023，**第一发明人**，CN116563467A
+- 三维模型生成方法及装置、存储介质及电子设备，2023，第三发明人，CN116597087A
+- 图像处理方法及装置、存储介质及电子设备，2023，第四发明人，CN116597173A
+- **[已授权]** 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
+- **[已授权]** 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B
+- 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272576A
+- **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
+- **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272575B
+- **[已授权]** 图像重建方法及装置、计算机存储介质、电子设备，2022，**第一发明人**，CN115205117B
+- 基于二维图像的三维重建方法、系统、设备及存储介质，2022，**第一发明人**，CN115018994A
+- **[已授权]** 图像生成方法、装置、电子设备及计算机可读存储介质，2022，第三发明人，CN115063536B
+- **[已授权]** 三维物体的图像渲染方法、装置及电子设备，2022，第三发明人，CN114863007B
+- 图像处理方法、装置、存储介质及电子设备，2021，第二发明人，CN114332334A
+- **[已授权]** 通用三维模型重建方法及装置、存储介质及电子设备，2021，第三发明人，CN114299252B
+- **[已授权]** 人脸图像生成方法及装置、人脸识别方法、设备、介质，2021，**第一发明人**，CN114255502B
+
+
 
 {style="text-align: justify;"}
