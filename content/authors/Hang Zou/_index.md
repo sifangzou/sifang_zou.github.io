@@ -20,9 +20,9 @@ superuser: true
 role: 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: "China Telecom Research Institute (CTRI)"
-    url: 
+# organizations:
+#   - name: "China Telecom Research Institute (CTRI)"
+#     url: 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,19 +30,19 @@ organizations:
 # Interests to show in About widget
 
 
-interests:
-  - Generative Model
-  #- "fishing :fishing_pole_and_fish:"
+# interests:
+#   - Generative Model
+#   #- "fishing :fishing_pole_and_fish:"
 
-# Education to show in About widget
-education:
-  courses:
-    - course: MSc in Information Technology
-      institution: Macau University of Science and Technology
-      year: 2018 - 2020
-    - course: BEng in Automation
-      institution: Minzu University of China
-      year: 2014 - 2018
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: MSc in Information Technology
+#       institution: Macau University of Science and Technology
+#       year: 2018 - 2020
+#     - course: BEng in Automation
+#       institution: Minzu University of China
+#       year: 2014 - 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -133,20 +133,23 @@ highlight_name: true
 I am currently a Standard Engineer in China Telecom Research Institute. 
 
 ---
-<font size=10>**Standards**</font>
+<font size=8>**Standards**</font>
 - Proposed to initial a new work item about the architecture of Event-based Vision Systems...
 - **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
 - [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
 - [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
 - [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
+
+<font size=4>
 - 计划隐式三维重建新行标立项...
 - **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
 - **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
+</font>
 
 ---
-**Patents**
+<font size=8>**Patents**</font>
 - 基于联合模型的图像鉴伪方法、电子设备和存储介质，2024，**第一发明人**，2024119998511
 - 视频压缩方法、装置、计算机可读介质及电子设备，2024，**第一发明人**，202411977968X
 - 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，2024116885649
@@ -173,7 +176,7 @@ I am currently a Standard Engineer in China Telecom Research Institute.
 
 
 ---
-**Papers**
+<font size=8>**Papers**</font>
 - [1] H. Zou et al., “A Unified Framework for Iris Anti-Spoofing: Introducing IrisGeneral Dataset and Masked-MoE Method,” arXiv preprint arXiv:2408.09752, 2024.
 - [2] Q. Zhang, Q. Liu, and H. Zou, “CDNeRF: A multi-modal feature guided neural radiance fields,” presented at the CAAI International Conference on Artificial Intelligence, Springer, 2022, pp. 204–215.
 - [3] H. Zhang, M. Zhang, Z. He, H. Zou, and R. Wang, “Coarse-to-Fine Iris Recognition Based on Multi-variant Ordinal Measures Feature Complementarity,” presented at the Biometric Recognition: 12th Chinese Conference, CCBR 2017, Shenzhen, China, October 28-29, 2017, Proceedings 12, Springer, 2017, pp. 411–419.
