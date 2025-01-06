@@ -44,6 +44,10 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Hang Zou
+    design:
+      columns: '2'
+      view: compact
+
 
   - block: collection
     # id: talks
