@@ -128,8 +128,8 @@ highlight_name: true
 ---
 
 
-:hugs:Last upadated - October 2024
+:hugs:Last upadated - Jan 2025
 
-I am currently focusing on standardization within Study Group 16 of the ITU-T.
+I am currently a Standard Engineer in China Telecom Research Institute. 
 
 {style="text-align: justify;"}
