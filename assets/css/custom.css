@@ -1,0 +1,26 @@
+/* 调整左侧栏宽度 */
+@media (min-width: 992px) { /* 对应 Bootstrap 的 lg 尺寸 */
+    .col-lg-4 {
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+    .col-lg-8 {
+      flex: 0 0 75%;
+      max-width: 75%;
+    }
+  }
+  
+  /* 确保在其他尺寸下保持响应式 */
+  @media (max-width: 991.98px) {
+    .col-md-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+  
+  @media (max-width: 767.98px) {
+    .col-12 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
