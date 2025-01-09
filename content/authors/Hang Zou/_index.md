@@ -128,16 +128,17 @@ highlight_name: true
 ---
 
 
-:hugs:Last upadated - Jan 2025
+<font size=6>:hugs:Last upadated - Jan 2025</font>
 
-:ghost:I am currently employed as a Standards Engineer at China Telecom Research Institute. 
+---
+<font size=5>:ghost:</font>I am currently employed as a Standards Engineer at China Telecom Research Institute. 
 
-:mortar_board:I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020.
+<font size=5>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020.
 
 
-:seedling:Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
+<font size=5>:seedling:</font>Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
 
-:star2:I hold 23 patents, 10 of which have been granted. I contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
+<font size=5>:star2:</font>I hold 23 patents, 10 of which have been granted. I contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
 ---
 <font size=8>**Standards**</font>
