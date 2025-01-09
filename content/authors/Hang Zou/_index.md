@@ -130,14 +130,14 @@ highlight_name: true
 
 :hugs:Last upadated - Jan 2025
 
-I am currently employed as a Standards Engineer at China Telecom Research Institute. 
+:ghost:I am currently employed as a Standards Engineer at China Telecom Research Institute. 
 
-I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020.
+:mortar_board:I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020.
 
 
-Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
+:seedling:Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
 
-I hold 23 patents, 10 of which have been granted. I contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
+:star2:I hold 23 patents, 10 of which have been granted. I contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
 ---
 <font size=8>**Standards**</font>
