@@ -137,7 +137,7 @@ highlight_name: true
 
 <font size=6>:seedling:</font>Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. 
 
-    ITU-T Q7/21 and ISO/IEC JTC 1/SC 29/WG 1 (JPEG) are proposed to establish a joint Ad Hoc Group (AHG) with the mandate to establish a joint project on event-based vision standardization. As agreed on Jan 2025, I was appointed as the Co-Chair of this joint AHG.
+&emsp;ITU-T Q7/21 and ISO/IEC JTC 1/SC 29/WG 1 (JPEG) are proposed to establish a joint Ad Hoc Group (AHG) with the mandate to establish a joint project on event-based vision standardization. As agreed on Jan 2025, I was appointed as the Co-Chair of this joint AHG.
 
 <font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted, and contribute as an editor to six ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
