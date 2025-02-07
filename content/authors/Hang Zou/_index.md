@@ -128,29 +128,30 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - Jan 2025</font>
+<font size=6>:hugs:Last upadated - Feb 2025</font>
 
 ---
-<font size=6>:computer:</font>I am currently employed as a Standards Engineer at China Telecom Research Institute.
+<font size=6></font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
-<font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020.
+<font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
 
+<font size=6>:seedling:</font>Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. 
 
-<font size=6>:seedling:</font>Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
+<font size=6>:seedling:</font>**ITU-T Q7/21 and ISO/IEC JTC 1/SC 29/WG 1 (JPEG) are proposed to establish a joint Ad Hoc Group (AHG) with the mandate to establish a joint project on event-based vision standardization. As agreed on Jan 2025, I was appointed as the Co-Chair of this joint AHG.**
 
-<font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted. I contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
+<font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted, and contribute as an editor to five ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
 ---
 <font size=8>**Standards**</font>
-
-- <font color=DarkGreen>Proposed to initial a new work item about the architecture of Event-based Vision Systems...</font>
+<font size=6>**ITU Standards**</font>
+- **[Under study]** ITU-T SG21, [H.EV-SYSarch]() "Architecture for event-based vision systems", 2025, **Main Editor**;
 - **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
 - [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
 - [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
 - [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
 
-
+<font size=6>**Industry Standards**</font>
 - <font color=DarkGreen>计划隐式三维重建新行标立项...</font>
 - **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
 - **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
