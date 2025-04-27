@@ -128,41 +128,48 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - Feb 2025</font>
+<font size=6>:hugs:Last upadated - Apr. 2025</font>
 
 ---
 <font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
 <font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
 
-<font size=6>:seedling:</font>Since 2023, I have been dedicated to standardization efforts. I am currently focusing on Study Group 21 of the ITU-T and serving as the representative for the event-based vision systems (EVS) topic, collaborating with the ISO/IEC JPEG committee. 
-<u>ITU-T Q7/21 and ISO/IEC JTC 1/SC 29/WG 1 (JPEG) are proposed to establish a joint Ad Hoc Group (AHG) with the mandate to establish a joint project on event-based vision standardization. As agreed on Jan 2025, I was appointed as the Co-Chair of this joint AHG.</u>
+<font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
+Since April 2025, I have served as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
 <font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted, and contribute as an editor to six ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
 ---
 <font size=8>**Standards**</font>
 
-<font size=6>**ITU Standards**</font>
-- **[Under study]** ITU-T SG21, [H.EV-SYSarch]() "Architecture for event-based vision systems", 2025, **Main Editor**;
+<font size=6>**ISO/IEC Standards**</font>
+I have served as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
+
+Timeline: Presentation/discussion of proposals (2025-04)
+
+<font size=6>**ITU-T Standards**</font>
+- **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
 - **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
 - [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
 - [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
 - [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
 
+<font size=6>**IEEE Standards**</font>
+Coming soon
+
 <font size=6>**Industry Standards**</font>
-- <font color=DarkGreen>计划隐式三维重建新行标立项...</font>
 - **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
-- **[在研-草案]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
+- **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
 
 
 ---
 <font size=8>**Patents**</font>
 - 基于联合模型的图像鉴伪方法、电子设备和存储介质，2024，**第一发明人**，2024119998511
-- 视频压缩方法、装置、计算机可读介质及电子设备，2024，**第一发明人**，202411977968X
-- 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，2024116885649
+- 视频压缩方法、装置、计算机可读介质及电子设备，2024，**第一发明人**，CN119767016A
+- 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，CN119621933A
 - 三维图像的合成重建方法及相关设备，2023，**第一发明人**，CN117830374A
 - 图像生成器的训练方法、图像重建方法、装置和存储介质，2023，**第一发明人**，CN117709428A
 - **[已授权]** 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
