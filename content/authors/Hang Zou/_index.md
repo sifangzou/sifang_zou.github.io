@@ -144,9 +144,10 @@ Since April 2025, I have served as Co-Chair of the Joint Ad Hoc Group (AHG) betw
 <font size=8>**Standards**</font>
 
 <font size=6>**ISO/IEC Standards**</font>
+
 I have served as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-Timeline: Presentation/discussion of proposals (2025-04)
+JPEG XE Timeline: Presentation/discussion of proposals (2025-04)
 
 <font size=6>**ITU-T Standards**</font>
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
@@ -157,10 +158,11 @@ Timeline: Presentation/discussion of proposals (2025-04)
 - [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
 
 <font size=6>**IEEE Standards**</font>
+
 Coming soon
 
 <font size=6>**Industry Standards**</font>
-- **[在研-草案]** CCSA TC1，《基于视频云网融合的视联网 人工智能中台》，2024，**第一起草人**；
+- **[在研-草案]** CCSA TC1，《云网融合的视频联网基础设施 人工智能中台》，2024，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
 
