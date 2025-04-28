@@ -136,7 +136,7 @@ highlight_name: true
 <font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
 
 <font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
-Since April 2025, I have served as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
+Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
 <font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted, and contribute as an editor to six ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
@@ -145,9 +145,9 @@ Since April 2025, I have served as Co-Chair of the Joint Ad Hoc Group (AHG) betw
 
 <font size=6>**ISO/IEC Standards**</font>
 
-I have served as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
+I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-JPEG XE Timeline: Presentation/discussion of proposals (2025-04)
+JPEG XE latest timeline: Presentation/discussion of proposals (2025-04)
 
 <font size=6>**ITU-T Standards**</font>
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
