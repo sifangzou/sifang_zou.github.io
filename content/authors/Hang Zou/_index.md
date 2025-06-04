@@ -128,7 +128,7 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - Apr. 2025</font>
+<font size=6>:saluting_face:Last upadated - Jun. 2025</font>
 
 ---
 <font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
@@ -138,7 +138,8 @@ highlight_name: true
 <font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
 Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
-<font size=6>:star2:</font>I hold 23 patents, 10 of which have been granted, and contribute as an editor to six ITU standards, three of which have been published. Additionally, I am the principal drafter for three industry standards. Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
+<font size=6>:star2:</font>I hold 10 granted patents, contribute as an editor to six ITU-T standards, and serve as the principal drafter for three industry standards.
+Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
 
 ---
 <font size=8>**Standards**</font>
@@ -147,7 +148,7 @@ Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between IS
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-JPEG XE latest timeline: Presentation/discussion of proposals (2025-04)
+- JPEG XE latest timeline: Prepare for Committee Draft (CD) (2025-06)
 
 <font size=6>**ITU-T Standards**</font>
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
@@ -169,24 +170,12 @@ Coming soon
 
 ---
 <font size=8>**Patents**</font>
-- 基于联合模型的图像鉴伪方法、电子设备和存储介质，2024，**第一发明人**，2024119998511
-- 视频压缩方法、装置、计算机可读介质及电子设备，2024，**第一发明人**，CN119767016A
-- 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，CN119621933A
-- 三维图像的合成重建方法及相关设备，2023，**第一发明人**，CN117830374A
-- 图像生成器的训练方法、图像重建方法、装置和存储介质，2023，**第一发明人**，CN117709428A
 - **[已授权]** 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
-- 图像分类方法、装置、电子设备和计算机可读存储介质，2023，**第一发明人**，CN116977742A
-- 图像处理方法、装置、计算机可读存储介质及电子设备，2023，第四发明人，CN116630514A
-- 人体图像三维重建方法、装置、设备及存储介质，2023，**第一发明人**，CN116563467A
-- 三维模型生成方法及装置、存储介质及电子设备，2023，第三发明人，CN116597087A
-- 图像处理方法及装置、存储介质及电子设备，2023，第四发明人，CN116597173A
 - **[已授权]** 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
-- **[已授权]** 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B
-- 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272576A
+- **[已授权]** 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B（电信集团A级专利，标准相关专利）
 - **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
 - **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272575B
 - **[已授权]** 图像重建方法及装置、计算机存储介质、电子设备，2022，**第一发明人**，CN115205117B
-- 基于二维图像的三维重建方法、系统、设备及存储介质，2022，**第一发明人**，CN115018994A
 - **[已授权]** 图像生成方法、装置、电子设备及计算机可读存储介质，2022，第三发明人，CN115063536B
 - **[已授权]** 三维物体的图像渲染方法、装置及电子设备，2022，第三发明人，CN114863007B
 - 图像处理方法、装置、存储介质及电子设备，2021，第二发明人，CN114332334A
