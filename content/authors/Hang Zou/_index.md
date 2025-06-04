@@ -128,7 +128,7 @@ highlight_name: true
 ---
 
 
-<font size=6>:saluting_face:Last upadated - Jun. 2025</font>
+<font size=6>:hugs:Last upadated - Jun. 2025</font>
 
 ---
 <font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
