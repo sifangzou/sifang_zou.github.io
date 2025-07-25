@@ -128,18 +128,18 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - Jun. 2025</font>
+<font size=6>:hugs:Last upadated - Jul. 2025</font>
 
 ---
 <font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
-<font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation from Minzu University of China in 2018, and a Master of Science in Information Technology from Macau University of Science and Technology in 2020. My primary areas include Generative Models, Implicit Neural Representations, Event-based Vision, and other fields within computer vision.
+<font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation in 2018, and a Master of Science in Information Technology in 2020. My primary areas include Generative Models, Event-based Vision, and other fields within computer vision.
 
 <font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
 Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
-<font size=6>:star2:</font>I hold 10 granted patents, contribute as an editor to six ITU-T standards, and serve as the principal drafter for three industry standards.
-Beyond standardization, I author papers on relevant topics and serve as a reviewer for conferences such as ICPR, ICME, and ACM MM.
+<font size=6>:star2:</font>I hold 11 granted patents, contribute as an editor to six ITU-T standards, and serve as the principal drafter for two industry standards.
+In addition to my work in standardization, I also occasionally author papers on related topics.
 
 ---
 <font size=8>**Standards**</font>
@@ -148,7 +148,7 @@ Beyond standardization, I author papers on relevant topics and serve as a review
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-- JPEG XE latest timeline: Prepare for Committee Draft (CD) (2025-06)
+- JPEG XE latest timeline: Prepare for Committee Draft (CD) (2025-07)
 
 <font size=6>**ITU-T Standards**</font>
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
@@ -163,14 +163,15 @@ I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG
 Coming soon
 
 <font size=6>**Industry Standards**</font>
-- **[在研-草案]** CCSA TC1，《云网融合的视频联网基础设施 人工智能中台》，2024，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
 
 
 ---
 <font size=8>**Patents**</font>
+
 - **[已授权]** 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
+- **[已授权]** 基于二维图像的三维重建方法、系统、设备及存储介质, 2022, **第一发明人**, CN115018994B
 - **[已授权]** 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
 - **[已授权]** 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B（电信集团A级专利，标准相关专利）
 - **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
@@ -178,7 +179,6 @@ Coming soon
 - **[已授权]** 图像重建方法及装置、计算机存储介质、电子设备，2022，**第一发明人**，CN115205117B
 - **[已授权]** 图像生成方法、装置、电子设备及计算机可读存储介质，2022，第三发明人，CN115063536B
 - **[已授权]** 三维物体的图像渲染方法、装置及电子设备，2022，第三发明人，CN114863007B
-- 图像处理方法、装置、存储介质及电子设备，2021，第二发明人，CN114332334A
 - **[已授权]** 通用三维模型重建方法及装置、存储介质及电子设备，2021，第三发明人，CN114299252B
 - **[已授权]** 人脸图像生成方法及装置、人脸识别方法、设备、介质，2021，**第一发明人**，CN114255502B
 
