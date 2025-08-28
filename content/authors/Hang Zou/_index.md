@@ -148,7 +148,7 @@ In addition to my work in standardization, I also occasionally author papers on 
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-- **[Under study - Prepare for DIS]** [ITU-T JPEG XE | ISO/IEC 26112-1] "JPEG XE Event coding system - Core coding system" 
+- **[Under study - Prepare for DIS]** ITU-T JPEG XE | ISO/IEC 26112-1 "JPEG XE Event coding system - Core coding system" 
 
 <font size=6>**ITU-T Standards**</font>
 - The common text standard of JPEG XE is coming soon...
