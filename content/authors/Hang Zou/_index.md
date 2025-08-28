@@ -138,7 +138,7 @@ highlight_name: true
 <font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
 Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
-<font size=6>:star2:</font>I hold 11 granted patents, contribute as an editor to six ITU-T standards, and serve as the principal drafter for two industry standards.
+<font size=6>:star2:</font>I hold 12 granted patents, contribute as an editor to several international standards, and serve as the principal drafter for industry standards.
 In addition to my work in standardization, I also occasionally author papers on related topics.
 
 ---
@@ -148,19 +148,22 @@ In addition to my work in standardization, I also occasionally author papers on 
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-- JPEG XE latest timeline: Prepare for Committee Draft (CD) (2025-07)
+- **[Under study - Prepare for DIS]** [ITU-T JPEG XE | ISO/IEC 26112-1] "JPEG XE Event coding system - Core coding system" 
 
 <font size=6>**ITU-T Standards**</font>
+- The common text standard of JPEG XE is coming soon...
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
 - **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
 - [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
 - [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
-- [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor;
+- [In force] ITU-T SG16, [F.747.14](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18755) (ex F.MFSVreqs) "Requirements and capability framework of the multimodal fusion system for vision", 2022, Co-Editor.
 
 <font size=6>**IEEE Standards**</font>
 
-Coming soon
+I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
+
+- **[Under study]** IEEE SA, "Trial-Use Recommended Practice for 3D Object Reconstruction from Multi-view Images Based on Deep Learning", C/AISC/3DR-WG/3354, 2023, Chair.
 
 <font size=6>**Industry Standards**</font>
 - **[在研-征求意见稿]** CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
@@ -175,6 +178,7 @@ Coming soon
 - **[已授权]** 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
 - **[已授权]** 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B（电信集团A级专利，标准相关专利）
 - **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
+- **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272576B
 - **[已授权]** 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272575B
 - **[已授权]** 图像重建方法及装置、计算机存储介质、电子设备，2022，**第一发明人**，CN115205117B
 - **[已授权]** 图像生成方法、装置、电子设备及计算机可读存储介质，2022，第三发明人，CN115063536B
