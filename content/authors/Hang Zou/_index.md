@@ -148,8 +148,12 @@ In addition to my work in standardization, I also occasionally author papers on 
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-- **[Under study - Prepare for DIS]** ISO/IEC 26112-1|ITU-T T.JPEG-XE “Information Technology – JPEG XE Event coding system: Core coding system”, 2025, Co-Chair&Co-Editor.
-- Part 2 is being prepared.
+- **[Under study - DIS]** ISO/IEC 26112-1|ITU-T T.JPEG-XE “Information Technology – JPEG XE Event coding system: Core coding system”, 2025, Co-Chair&Co-Editor.
+- **[Under study - CD]** ISO/IEC 26112-2|ITU-T T.JPEG-XE-P "Information Technology – JPEG XE Event coding system: Profiles and levels", 2026, Co-Chair&Co-Editor.
+- **[Under study - CD]** ISO/IEC 26112-3|ITU-T T.JPEG-XE-RS "Information Technology – JPEG XE Event coding system: Reference software", 2026, Co-Chair&Co-Editor.
+- **[Being Prepared]** ISO/IEC 26112-4|T.JPEG-XE-C "Information Technology – JPEG XE Event coding system: Conformance"
+- **[Being Prepared]** ISO/IEC 26112-5|T.JPEG-XE-F "Information Technology – JPEG XE Event coding system: File formats and metadata"
+
 
 <font size=6>**ITU-T Standards**</font>
 - **[Under study]** ITU-T SG21, [T.JPEG-XE|ISO/IEC 26112-1]()“Information Technology – JPEG XE Event coding system: Core coding system”, 2025, **Main Editor**; 
