@@ -155,7 +155,7 @@ I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG
 - **[Under study]** ITU-T SG21, [T.JPEG-XE|ISO/IEC 26112-1]()“Information Technology – JPEG XE Event coding system: Core coding system”, 2025, **Main Editor**; 
 - **[Under study]** ITU-T SG21, [H.EV-CCS]() “Architecture and requirements for event-based vision enabled cursor control system in multimedia terminals”, 2025, Co-Editor;
 - **[Under study]** ITU-T SG21, [H.EV-SYSarch](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=22164) "Architecture for event-based vision systems", 2025, **Main Editor**;
-- **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19526) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
+- **[Under study]** ITU-T SG21, [H.ILE-3DINR](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=21076) "Framework and requirements of 3D reconstruction systems based on implicit neural representation for immersive live experience (ILE) services", 2024, **Main Editor**;
 - **[Under study]** ITU-T SG21, [F.IGreqs](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=19288) "Requirements and framework of artificial intelligence-based image generation systems", 2024, Co-Editor;
 - [In force] ITU-T SG16, [F.747.15](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=17636) (ex F.EVSreqs) "Requirements of event-based vision systems", 2022, **Main Editor**;
 - [In force] ITU-T SG16, [F.748.29](https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=18606) (ex F.MFDreqs) "Requirements and functions of computer audition based machinery fault diagnosis system", 2022, Co-Editor;
