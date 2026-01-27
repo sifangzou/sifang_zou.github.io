@@ -177,6 +177,10 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 
 
 ---
+<font size=8>**Awards**</font>
+- 中国通信标准化协会(CCSA)科学技术奖一等奖，参与起草《视联网要求与架构》等10项国际标准，第十二完成人，2026
+
+---
 <font size=8>**Patents**</font>
 
 - **[已授权]** 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
