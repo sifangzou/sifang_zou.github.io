@@ -128,7 +128,7 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - Jan. 2026</font>
+<font size=6>:hugs:Last upadated - May. 2026</font>
 
 ---
 <font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
@@ -204,7 +204,7 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 - [已授权] 人脸图像生成方法及装置、人脸识别方法、设备、介质，2021，**第一发明人**，CN114255502B
 
 ---
-<font size=8>**Papers**</font>
+<font size=8>**Selected Publications**</font>
 
 - [1] H. Zou et al., “Multi-angle Consistent Generative NeRF with Additive Angular Margin Momentum Contrastive Learning,” presented at the Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Workshop), 2024, pp. 930–939.
 - [2] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” presented at the 2024 IEEE International Joint Conference on Biometrics (IJCB), IEEE, 2024, pp. 1–11.
