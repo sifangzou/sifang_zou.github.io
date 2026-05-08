@@ -131,7 +131,7 @@ highlight_name: true
 <font size=6>:hugs:Last upadated - May. 2026</font>
 
 ---
-<font size=6>:computer:</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
+<font size=6>🙂</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
 <font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation in 2018, and a Master of Science in Information Technology in 2020. My primary areas include Generative Models, Event-based Vision, and other fields within computer vision.
 
