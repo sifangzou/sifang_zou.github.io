@@ -189,8 +189,8 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 ---
 <font size=8>**Selected Publications**</font>
 
-- [1] H. Zou et al., “Toward Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach,” IEEE TIFS, 2025.
-- [2] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” IEEE IJCB, 2024
+- [1] H. Zou et al., “Toward Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach,” TIFS, 2025.
+- [2] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” IJCB, 2024
 - [3] H. Zou et al., “Multi-angle Consistent Generative NeRF with Additive Angular Margin Momentum Contrastive Learning,” CVPR Workshops, 2024.
 - [4] H. Zou et al., “Generation Textured Contact Lenses Iris Images Based on 4DCycle-GAN,” ICPR, 2018.
 
