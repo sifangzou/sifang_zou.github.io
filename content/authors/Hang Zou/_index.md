@@ -128,17 +128,17 @@ highlight_name: true
 ---
 
 
-<font size=6>:hugs:Last upadated - May. 2026</font>
+<font size=6>🌴Last upadated - May. 2026</font>
 
 ---
 <font size=6>🙂</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
-<font size=6>:mortar_board:</font>I earned my Bachelor of Engineering in Automation in 2018, and a Master of Science in Information Technology in 2020. My primary areas include Generative Models, Event-based Vision, and other fields within computer vision.
+<font size=6>🎓</font>I earned my Bachelor of Engineering in Automation in 2018, and a Master of Science in Information Technology in 2020. My primary areas include Generative Models, Event-based Vision, and other fields within computer vision.
 
-<font size=6>:seedling:</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
+<font size=6>🌿</font>Since 2023, I have been engaged in standardization efforts, focusing on Study Group 21 of the ITU-T.
 Since April 2025, I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on JPEG XE, contributing to the joint standardization efforts for event-based vision.
 
-<font size=6>:star2:</font>I hold 14 granted patents, contribute as an editor to several international standards, and serve as the principal drafter for industry standards.
+<font size=6>⭐️</font>I hold 14 granted patents, contribute as an editor to several international standards, and serve as the principal drafter for industry standards.
 In addition to my work in standardization, I also occasionally author papers on related topics.
 
 ---
@@ -185,6 +185,16 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 
 - 中国通信标准化协会(CCSA)科学技术奖，一等奖，参与起草《视联网要求与架构》等10项国际标准，2026，第十二完成人
 
+
+---
+<font size=8>**Selected Publications**</font>
+
+- [1] H. Zou et al., “Toward Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach,” IEEE TIFS, 2025.
+- [2] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” IEEE IJCB, 2024
+- [3] H. Zou et al., “Multi-angle Consistent Generative NeRF with Additive Angular Margin Momentum Contrastive Learning,” CVPR Workshops, 2024.
+- [4] H. Zou et al., “Generation Textured Contact Lenses Iris Images Based on 4DCycle-GAN,” ICPR, 2018.
+
+
 ---
 <font size=8>**Patents**</font>
 
@@ -203,13 +213,7 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 - [已授权] 通用三维模型重建方法及装置、存储介质及电子设备，2021，第三发明人，CN114299252B
 - [已授权] 人脸图像生成方法及装置、人脸识别方法、设备、介质，2021，**第一发明人**，CN114255502B
 
----
-<font size=8>**Selected Publications**</font>
 
-- [1] H. Zou et al., “Toward Generalized Iris Presentation Attack Detection: A Mask-and-Distill Mixture of Experts Approach,” IEEE TIFS, 2025.
-- [2] H. Zou et al., “La-SoftMoE CLIP for Unified Physical-Digital Face Attack Detection,” IEEE IJCB, 2024
-- [3] H. Zou et al., “Multi-angle Consistent Generative NeRF with Additive Angular Margin Momentum Contrastive Learning,” CVPR Workshops, 2024.
-- [4] H. Zou et al., “Generation Textured Contact Lenses Iris Images Based on 4DCycle-GAN,” ICPR, 2018.
 
 
 {style="text-align: justify;"}
