@@ -128,10 +128,10 @@ highlight_name: true
 ---
 
 
-<font size=6>🌴Last upadated - May. 2026</font>
+<font size=6>🌴Last upadated - Sep. 2026</font>
 
 ---
-<font size=6>🙂</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
+<font size=6>🫠</font>**I am employed as a Standards Engineer at China Telecom Research Institute since 2021.**
 
 <font size=6>🎓</font>I earned my Bachelor of Engineering in Automation in 2018, and a Master of Science in Information Technology in 2020. My primary areas include Generative Models, Event-based Vision, and other fields within computer vision.
 
@@ -148,11 +148,11 @@ In addition to my work in standardization, I also occasionally author papers on 
 
 I serve as Co-Chair of the Joint Ad Hoc Group (AHG) between ISO/IEC JTC1/SC29/WG1 (JPEG) and ITU-T Q7/21 on [JPEG XE](https://jpeg.org/jpegxe/index.html).
 
-- **[Under study - DIS]** ISO/IEC 26112-1|ITU-T Planned T.841.1 “Information Technology – JPEG XE Event coding system: Core coding system”, 2025, Co-Chair&Co-Editor.
-- **[Under study - CD]** ISO/IEC 26112-2|ITU-T T.JPEG-XE-P "Information Technology – JPEG XE Event coding system: Profiles and levels", 2026, Co-Chair&Co-Editor.
-- **[Under study - CD]** ISO/IEC 26112-3|ITU-T T.JPEG-XE-RS "Information Technology – JPEG XE Event coding system: Reference software", 2026, Co-Chair&Co-Editor.
-- **[Being Prepared]** ISO/IEC 26112-4|T.JPEG-XE-C "Information Technology – JPEG XE Event coding system: Conformance"
-- **[Being Prepared]** ISO/IEC 26112-5|T.JPEG-XE-F "Information Technology – JPEG XE Event coding system: File formats and metadata"
+- [PRF] ISO/IEC 26112-1|ITU-T Planned T.841.1 “Information Technology – JPEG XE Event coding system: Core coding system”, 2025.
+- [DIS] ISO/IEC 26112-2|ITU-T T.JPEG-XE-P "Information Technology – JPEG XE Event coding system: Profiles and levels", 2026.
+- [DIS] ISO/IEC 26112-3|ITU-T T.JPEG-XE-RS "Information Technology – JPEG XE Event coding system: Reference software", 2026.
+- **[prepare CD]** ISO/IEC 26112-4|T.JPEG-XE-C "Information Technology – JPEG XE Event coding system: Conformance"
+- **[prepare CD]** ISO/IEC 26112-5|T.JPEG-XE-F "Information Technology – JPEG XE Event coding system: File formats and metadata"
 
 
 <font size=6>**ITU-T Standards**</font>
@@ -177,8 +177,8 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 
 <font size=6>**Industry Standards**</font>
 
-- [已报批] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，2024-0036T-YD，**第一起草人**；
-- [已报批] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，2023-1069T-YD，**第一起草人**；
+- [已发布] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第2部分：智能交互系统》，YD/T 7365.2-2026，**第一起草人**；
+- [已发布] CCSA TC1，《基于人工智能多模态技术的信息系统技术要求 第1部分：生物特征识别系统》，YD/T 7365.2-2026，**第一起草人**；
 
 ---
 <font size=8>**Awards**</font>
@@ -198,12 +198,12 @@ I serve as Chair of the 3D Reconstruction Working Group (C/AISC/3DR-WG).
 ---
 <font size=8>**Patents**</font>
 
-- [已授权] 检索增强生成方法及装置、计算机程序产品、电子设备，2024，**第四发明人**，CN119621933B
+- [已授权] 检索增强生成方法及装置、计算机程序产品、电子设备，2024，第四发明人，CN119621933B
 - [已授权] 图像分类方法、装置、电子设备和计算机可读存储介质，2023，**第一发明人**，CN116977742B
 - [已授权] 图像处理方法及装置、存储介质及电子设备，2023，**第一发明人**，CN116993590B
 - [已授权] 基于二维图像的三维重建方法、系统、设备及存储介质, 2022, **第一发明人**, CN115018994B
 - [已授权] 模型的训练方法、训练装置、电子设备和可读存储介质，2022，**第一发明人**，CN115439610B
-- [已授权] 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B（电信集团A级专利，标准相关专利）
+- [已授权] 异常数据识别模型的训练方法及相关设备，2022，**第一发明人**，CN115238805B（电信集团A级专利）
 - [已授权] 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115100360B
 - [已授权] 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272576B
 - [已授权] 图像生成方法及装置、存储介质和电子设备，2022，第三发明人，CN115272575B
