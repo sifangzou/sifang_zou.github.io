@@ -1,0 +1,5 @@
+{{ if .IsHome }}
+  {{ $glass := resources.Get "css/home-glass.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $glass.RelPermalink }}" integrity="{{ $glass.Data.Integrity }}" crossorigin="anonymous">
+  <style>.art-home { --art-background: url('{{ "images/carnation-lily-lily-rose.jpg" | relURL }}'); }</style>
+{{ end }}

@@ -1,0 +1,127 @@
+/* Homepage only. The fixed painting stays behind the scrolling glass surface. */
+body.art-home {
+  background: #243d38;
+  color: #25312f;
+  isolation: isolate;
+}
+.art-home::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: linear-gradient(rgba(13, 30, 26, .16), rgba(13, 30, 26, .26)), var(--art-background);
+  background-size: cover;
+  background-position: center 46%;
+  background-repeat: no-repeat;
+}
+.art-home .page-body,
+.art-home .home-section,
+.art-home .home-section:nth-of-type(even) {
+  background: transparent;
+}
+.art-home .home-section {
+  padding: 64px 0 36px;
+  color: #25312f;
+}
+.art-home .home-section > .container {
+  width: calc(100% - 96px);
+  max-width: 1120px;
+  padding: 48px 44px;
+  border: 1px solid rgba(255, 255, 255, .85);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, .94);
+  box-shadow: 0 24px 80px rgba(5, 25, 20, .24), inset 0 1px 0 #fff;
+}
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .art-home .home-section > .container {
+    background: rgba(255, 255, 255, .84);
+    -webkit-backdrop-filter: blur(18px) saturate(110%);
+    backdrop-filter: blur(18px) saturate(110%);
+  }
+}
+.art-home #about .article-style {
+  font-size: 17px;
+  line-height: 1.85;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+.art-home #about .article-style li { margin-bottom: .65em; }
+.art-home #about .article-style font[size="8"] {
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  line-height: 1.35;
+}
+.art-home #about .article-style font[size="6"] {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+.art-home #about hr {
+  border-color: rgba(37, 62, 52, .18);
+  margin: 2rem 0;
+}
+.art-home #about h1,
+.art-home #about h2,
+.art-home #about h3,
+.art-home #about strong { color: #1d302b; }
+.art-home #about a { color: #235c50; }
+.art-home #about a:hover { color: #123e34; text-decoration: underline; }
+.art-home #about a:focus-visible { outline: 2px solid #235c50; outline-offset: 4px; }
+.art-home #profile { padding: 0 8px 24px; }
+.art-home #profile .avatar {
+  width: 180px;
+  height: 180px;
+  border: 5px solid rgba(255, 255, 255, .8);
+  box-shadow: 0 10px 28px rgba(23, 45, 35, .15);
+}
+.art-home #profile h2 { font-size: 1.25rem; line-height: 1.4; word-break: keep-all; }
+.art-home #navbar-main {
+  background: rgba(255, 255, 255, .94) !important;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, .5), 0 4px 24px rgba(15, 35, 28, .10);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+}
+.art-home #navbar-main .navbar-brand,
+.art-home #navbar-main .nav-link,
+.art-home #navbar-main .navbar-toggler { color: #253d35 !important; }
+.art-home .page-footer {
+  width: calc(100% - 96px);
+  max-width: 1120px;
+  margin: 0 auto 32px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, .94);
+  color: #344c42;
+}
+.art-home .page-footer footer { margin: 0; padding: 24px; }
+.art-home .page-footer p,
+.art-home .page-footer a { color: #344c42; }
+@media (min-width: 992px) {
+  .art-home #about > .container > .row > .col-lg-4 { flex: 0 0 27%; max-width: 27%; }
+  .art-home #about > .container > .row > .col-lg-8 { flex: 0 0 73%; max-width: 73%; padding-left: 28px; }
+}
+@media (max-width: 991.98px) {
+  .art-home .home-section { padding-top: 32px; }
+  .art-home .home-section > .container { width: calc(100% - 40px); padding: 32px 28px; }
+  .art-home .page-footer { width: calc(100% - 40px); }
+}
+@media (max-width: 575.98px) {
+  .art-home::before { background-position: 52% center; }
+  .art-home .home-section { padding: 20px 0; }
+  .art-home .home-section > .container {
+    width: calc(100% - 24px);
+    padding: 28px 22px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, .91);
+  }
+  .art-home #about .article-style { font-size: 16px; line-height: 1.8; }
+  .art-home #about .article-style ul { padding-left: 1.25em; }
+  .art-home .page-footer { width: calc(100% - 24px); }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .art-home .home-section > .container,
+  .art-home #navbar-main { background: #f8faf8 !important; backdrop-filter: none; -webkit-backdrop-filter: none; }
+}
+@media print {
+  .art-home::before { display: none; }
+  body.art-home { background: white; }
+  .art-home .home-section > .container { width: 100%; max-width: none; padding: 0; background: white; box-shadow: none; border: 0; backdrop-filter: none; }
+}
